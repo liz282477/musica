@@ -1,0 +1,85 @@
+h1{
+    color:white; 
+ font-family: 'Oswald', sans-serif;  
+}
+ p{
+    color:white;
+    text-align: justify;
+}
+ul{
+    color:white;
+}
+.contenedor{
+    width: 100%;
+    display: flex;
+    max-width: 1100;
+}
+.tarjetas{
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    background-color:black;
+    overflow: hidden;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+    cursor: default;
+    transition: all 400ms ease;
+}
+.tarjetas .contenido p{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.tarjetas img{
+    width: 110%;
+    height: 200px;
+}
+.titulo2{
+    color:darkgreen;
+}
+.p2{
+    color:darkgreen;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.ul2{
+    color:darkgreen;
+}
+.contenedor2{
+    width: 100%;
+    display: flex;
+    max-width: 1100px;
+}
+.tarjetas2{
+    width: 100%;
+    margin: 20px;
+    border-radius: 6px;
+    background-color:#69f08f;
+    overflow: hidden;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+    cursor: default;
+    transition: all 400ms ease;
+}
+.tarjetas2 img{
+    width: 110%;
+    height: 200px;
+}
+h1{
+    margin-left: 60px;
+    margin-right: 15px;
+}
+.taregtas{
+    
+}
+.volver{
+    display: block;
+    width: 160px; 
+    height: 130px;
+    border-radius: 30%; 
+    background-color: rgb(0, 153, 255);
+    border-color: black;
+    border-style:solid ;
+    border-width: 3px;
+margin-left: 20px;
+}
+.link2{
+    font-size: 27px;
+}
